@@ -1,0 +1,24 @@
+{
+  "name": "bows-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader that injects bows (a console.log replacement) into source files.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arrayjam/bows-loader"
+  },
+  "keywords": [
+    "bows",
+    "bows-loader",
+    "console",
+    "console.log"
+  ],
+  "author": {
+    "name": "Yuri Feldman",
+    "url": "http://yuri.io"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bows": "^1.4.8"
+  }
+}
